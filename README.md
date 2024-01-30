@@ -1,5 +1,8 @@
 # <a href="https://nailaalissa.github.io/CRUDsPage/" >CRUDS Product Management System</a>
-This HTML page represents a simple CRUDS (Create, Read, Update, Delete, Search) Product Management System. It allows users to manage a list of products with various details. The interface is designed to capture product information such as title, price, taxes, ads, discount, count, and category.
+This HTML page represents a simple CRUDS (Create, Read, Update, Delete, Search) Product Management System. It allows users to manage a list of products with various details. 
+
+
+The interface is designed to capture product information such as title, price, taxes, ads, discount, count, and category.
 
 <h4>Usage:</h4>
 Users can input product details in the form fields.
